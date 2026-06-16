@@ -1,0 +1,1 @@
+GRANT EXECUTE ON FUNCTION public.are_friends(uuid, uuid) TO authenticated, anon, service_role;
